@@ -8,20 +8,20 @@ Hi! I'm Nathan Dela Pena, an aspiring software engineer!
 
 # 📌 Featured Projects:
 - [Fomo](https://github.com/Fomo-Find-Out-More-Often/fomo)
-  - TypeScript
+  - TypeScript, React Native, Convex, Python, Mapbox, Clerk
   - Centralized hub for local events; boosts community engagement, attendance, and convenience
 
-- [Rebel-Locate](https://github.com/Nathan-Dela-Pena/Rebel-Locate)
-  - Python
-  - UNLV-based geolocator for finding people/resources on campus
-
 - [Coral-Reef-Assessment-Classifier (CRAC)](https://github.com/Nathan-Dela-Pena/Coral-Reef-Assessment-Classifier-CRAC)
-  - Python
+  - Python, PyTorch, YOLO, Flask
   - Software application that classifies and assesses coral reef health
 
 - [Podz-Liability-Fund](https://github.com/Nathan-Dela-Pena/Podz-Liability-Fund)
-  - Python
+  - Python, PyTorch, YOLO, Flask, pandas, Numpy
   - NBA prediction model for the Golden State Warriors and San Antonio Spurs
+
+- [Rebel-Locate](https://github.com/Nathan-Dela-Pena/Rebel-Locate)
+  - Python, PyTorch, torchvision, Shapely, Pillow (EXIF), NumPy
+  - UNLV-based geolocator for finding people/resources on campus
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
